@@ -1,7 +1,7 @@
 theme = "hugo-theme-codex"
 title = "Billiam"
 languageCode = "en-us"
-baseURL = "https://runbilliam.github.io"
+baseURL = "https://billiam.run"
 
 # googleAnalytics = ""
 
